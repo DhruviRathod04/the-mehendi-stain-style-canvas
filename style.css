@@ -1,0 +1,38 @@
+
+body {
+     background-color:rgb(165, 122, 69);
+}
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px
+}
+.art-img {
+    width: 250px;
+    height: 350px;
+    border: 1px ridge rgb(165, 122, 69);
+    border-radius: 20px;
+    box-shadow: 10px 10px 12px rgb(66, 66, 66);
+    padding: 2px;
+    background: rgb(165, 122, 69);
+       
+}
+.image {
+    display: flex;
+     flex-wrap: wrap;
+    gap:100px;
+}
+.mehendi-img {
+    width: 250px;
+    height: 300px;
+    border: 1px ridge rgb(165, 122, 69);
+    border-radius: 20px;
+    box-shadow: 10px 10px 12px rgb(66, 66, 66);
+    padding: 2px;
+    background: rgb(165, 122, 69);
+}
+.logo {
+    width: 300px;
+    height:300px;
+    border-radius:500px;
+}
